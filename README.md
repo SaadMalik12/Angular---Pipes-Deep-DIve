@@ -1,5 +1,3 @@
-# README.md
-
 ````md
 # Pipes Deep Dive
 
@@ -63,6 +61,3 @@ http://localhost:4200/
 ## Purpose
 
 This project was created for learning and practicing Angular Pipes and understanding how data transformation works inside Angular templates.
-
-```
-```
